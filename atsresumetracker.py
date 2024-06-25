@@ -138,9 +138,4 @@ elif submit5:
 
 footer = """
 ---
-#### Made By [Arun](https://www.linkedin.com/in/ragula-arun2003/)
-For Queries, Reach out on [LinkedIn] (https://www.linkedin.com/in/ragula-arun2003/)
-*Resume Expert - Making Job Applications Easier*
-"""
-
 st.markdown(footer, unsafe_allow_html=True)
